@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>question_8</title>
+</head>
+<body>
+    <form action="https://www.google.co.in/search">
+<div><input type="text" placeholder="search in google" name="q"></div>
+<button type="submit">submit</button>
+    </form>
+</body>
+</html>
