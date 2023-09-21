@@ -1,0 +1,21 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    h3{
+        color:black;
+        background-color:wheat;
+    }
+    </style>
+</head>
+<body>
+    <h3>Today is 21 <sup>st</sup>of september and 2 <sup>4</sup>=16 always</h3>
+    <h3>copyright tag</h3>
+    &COPY;
+    <h3>trademark tag</h3>
+    &trade;
+</body>
+</html>
